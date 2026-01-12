@@ -1,4 +1,4 @@
-![](media/media/image1.png){width="6.022916666666666in"
+![](image1.png){width="6.022916666666666in"
 height="9.034722222222221in"}
 
 Python 3.14: The Digital Magician\'s Handbook- Complete Bilingual
@@ -429,7 +429,7 @@ downloading confusing \"installer files\" are over. We will use the
 
 Figure 1: Python Installation Steps on Windows 11
 
-![](media/media/image2.png){width="5.416666666666667in"
+![](image2.png){width="5.416666666666667in"
 height="2.910913167104112in"}
 
 **Tamil**
@@ -575,7 +575,7 @@ This is the **fundamental cycle** of programming:
 
 Figure 2: The Fundamental Cycle of Programming
 
-![](media/media/image3.png){width="5.666666666666667in"
+![](image3.png){width="5.666666666666667in"
 height="2.1714610673665793in"}
 
 **Tamil**
@@ -622,7 +622,7 @@ Vanakkam Ulagam!
 *படம் 2ல் தரப்பட்டுள்ள* **நிரலாக்கத்தின் அடிப்படை சுழற்சி** விளக்கமைவு கீழே
 தரப்பட்டுள்ளது
 
-![](media/media/image3.png){width="4.166666666666667in"
+![](image3.png){width="4.166666666666667in"
 height="1.5966633858267716in"}
 
 *நீங்கள் உள்ளிடு செய்கிறீர்கள் → பைதான் அதை படிக்கிறது → படித்ததை பைதான்
@@ -869,7 +869,7 @@ where we store data (information) so we can use it later.
 Here, we created a box labeled `score` and put the number `100` inside.
 We created another box labeled `name` and put the text `"Raman"` inside.
 
-![](media/media/image4.png){width="4.071503718285214in"
+![](image4.png){width="4.071503718285214in"
 height="1.98749343832021in"}
 
 **Tamil**
@@ -892,7 +892,7 @@ height="1.98749343832021in"}
 
 எடுத்துக்காட்டு:
 
-![](media/media/image5.png){width="3.3409273840769904in"
+![](image5.png){width="3.3409273840769904in"
 height="1.630865048118985in"}
 
 *score = 100\
@@ -971,7 +971,7 @@ Table 1: Valid and Invalid Variable Names in Python
 தவறான பெயர்கள் (Bad): 2player (எண்ணில் தொடங்குகிறது), hero health (இடைவெளி
 உள்ளது), class (இது பைதானின் சிறப்பு வார்த்தை)
 
-![](media/media/image6.png){width="6.034722222222222in"
+![](image6.png){width="6.034722222222222in"
 height="3.7291666666666665in"}
 
 **2.3 DIFFERENT TYPES OF DATA**
@@ -1022,7 +1022,7 @@ Table 2: Python Data Types
 சில நேரங்களில் தசம எண்கள் (decimals), மற்றும் சில நேரங்களில் எளிய ஆம்/இல்லை பதில்கள்
 இருக்கும். நீங்கள் என்ன வகையான தரவைச் சேமிக்கிறீர்கள் என்பதை பைதான் தானாகவே கண்டறியும்.
 
-![](media/media/image7.png){width="5.822916666666667in"
+![](image7.png){width="5.822916666666667in"
 height="2.9583333333333335in"}
 
 வகையைக் கண்டறிய இந்தக் கட்டளையை முயலுங்கள்:
@@ -1152,7 +1152,7 @@ question.
 
 **Decision Flowchart**
 
-![](media/media/image8.png){width="3.2395833333333335in"
+![](image8.png){width="3.2395833333333335in"
 height="2.4843011811023623in"}
 
 Figure 4: Decision Making Flowchart
@@ -3562,3 +3562,4 @@ Covers absolute beginner to intermediate level\
 Windows 11 + Python 3.14 specific
 
 READY FOR IMMEDIATE USE! ✅
+
